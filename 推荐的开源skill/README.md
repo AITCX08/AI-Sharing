@@ -9,5 +9,6 @@
 | **网页动画（GSAP）** | 给网页加丝滑入场、滚动特效、交互动画 | 想让作品「活」起来 | https://gsap.com （官方库；搜「GSAP skill」获取技能版） |
 | **文档生成（Word/PPT/Excel/PDF）** | 让 AI 直接生成可用的 .docx / .xlsx / .pptx / .pdf | 学生、职场、要交作业 | https://github.com/anthropics/skills （Anthropic 官方 skills，含 docx/pptx/xlsx/pdf） |
 | **前端美化（frontend-design）** | 把「半成品」网页做成专业界面，告别「AI 味」 | 想要好看界面 | 同上：https://github.com/anthropics/skills |
+| **前端美术风格（design-taste-frontend）** | 根据品牌、受众和页面类型决定视觉方向，避免模板化的 AI 页面 | 官网、落地页、作品集、视觉重构 | https://github.com/Leonxlnx/taste-skill |
 
 > 链接以各官方仓库为准，可能更新；安装方式看各仓库 README。
